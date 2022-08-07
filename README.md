@@ -1,1 +1,1 @@
-# HackerRank
+# HR-PROBLEMS
